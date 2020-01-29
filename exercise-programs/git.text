@@ -1,0 +1,15 @@
+Add configuration :
+	 git config user.name
+	 git config user.name "Yogendra"
+	 git config user.email
+	 git config user.email "yogendra@gmail.com"
+
+Replace all pre-configuration :
+	 git config --replace-all user.email "yogendra-2@gmail.com"
+	 
+Global configuration :
+
+	git config --global user.name "Yogendra Maurya"
+	git config --global user.email "yogendra@gmail.com"
+
+Verify configuration : cat .git/config
