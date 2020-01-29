@@ -1,2 +1,2 @@
 # PythonApps
-Repository contains contains python Applications (Module wise)
+Repository contains python Applications (Module wise) and sample practice exercise program.
